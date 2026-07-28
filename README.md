@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)](https://flask.palletsprojects.com/)
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini-blue.svg)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 An AI-powered Resume Analyzer that evaluates resumes against job descriptions, generates an ATS compatibility score, identifies missing keywords, provides section-wise feedback, and allows users to edit PDF/DOCX resumes directly in the browser using the Google Gemini API.
 
@@ -168,7 +168,7 @@ http://127.0.0.1:5000
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
 
 ---
 
