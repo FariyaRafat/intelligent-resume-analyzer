@@ -1,12 +1,26 @@
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
+*.py[cod]
+
+# Virtual Environment
 venv/
 .venv/
-.env.local
-.idea/
+
+# Environment Variables
+.env
+.env.*
+
+# IDE Files
 .vscode/
+.idea/
+
+# OS Files
 .DS_Store
 Thumbs.db
+
+# Runtime Generated Files
+uploads/
+edited/
+analysis/
+
+# Temporary Files
+tempCodeRunnerFile.py
